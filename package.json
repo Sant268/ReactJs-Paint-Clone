@@ -1,5 +1,8 @@
 {
   "name": "crGa3WUq",
+  "engines": {
+    "node": "12.16.x"
+  },
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
